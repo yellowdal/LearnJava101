@@ -6,7 +6,7 @@ public class TypeLesson {
 		long l = 1; //This is a long variable
 		short s = 1; // This is a short variable
 		byte b = 1; // This is a byte variable
-		char c = 125; // This is char variable
+		char c = 12900; // This is char variable
 		String string = "1"; // This is a string variable
 
 

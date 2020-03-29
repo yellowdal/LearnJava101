@@ -39,7 +39,7 @@ public class Calculator {
             System.out.println("Enter the two numbers for operation");
             a = sc.nextFloat();
             b = sc.nextFloat();
-            if(a > b) {
+            if(b!=0) {
                 c = a / b;
                 System.out.println("The difference of 2 numbers is" + c);
             } else
